@@ -35,3 +35,5 @@ Step 6 : Commands
    - git push -u origin master
    - git log
    - git --help
+
+## Changes
